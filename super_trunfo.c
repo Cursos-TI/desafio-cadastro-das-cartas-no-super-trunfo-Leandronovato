@@ -36,9 +36,9 @@ int main(){
         scanf("%d", &npt1);
 
         printf("\n--- CARTA 1 ---\n");
-        printf("Estado: %s\n Código: %s01\n Nome da Cidade: %s\n População: %d\n Área: %f km²\n PIB: %f Bilhões em Reais\n Número de Pontos Turísticos: %d\n", estado, estado, cidade, populacao, area, pib, npt);
+        printf("Estado: %s\n Código: A01\n Nome da Cidade: %s\n População: %d\n Área: %f km²\n PIB: %f Bilhões em Reais\n Número de Pontos Turísticos: %d\n", estado, cidade, populacao, area, pib, npt);
         printf("\n--- CARTA 2 ---\n");
-        printf("Estado: %s\n Código: %s02\n Nome da Cidade: %s\n População: %d\n Área: %f km²\n PIB: %f Bilhões em Reais\n Número de Pontos Turísticos: %d\n", estado1, estado1, cidade1, populacao1, area1, pib1, npt1);
+        printf("Estado: %s\n Código: B02\n Nome da Cidade: %s\n População: %d\n Área: %f km²\n PIB: %f Bilhões em Reais\n Número de Pontos Turísticos: %d\n", estado1, cidade1, populacao1, area1, pib1, npt1);
             
     return 0;
 }
