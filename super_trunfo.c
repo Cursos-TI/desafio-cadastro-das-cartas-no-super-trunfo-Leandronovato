@@ -9,7 +9,7 @@ int main(){
     printf("\nDIGITE AS ESPECEFICAÇÕES ABAIXO PARA CRIAR CARTAS PARA O 'SUPER TRUNFO'\n\n");
         printf("Digite a Cidade: \n");         
         scanf("%s", &cidade);
-        printf("Digite o Estado (uma letra de A à H): \n");         
+        printf("Digite o Estado: \n");         
         scanf("%s", &estado);
         printf("Digite a Quantidade da População: \n");         
         scanf("%d", &populacao);
@@ -24,7 +24,7 @@ int main(){
                 
         printf("Digite a Cidade: \n");         
         scanf("%s", &cidade1);
-        printf("Digite o Estado (uma letra de A à H): \n");         
+        printf("Digite o Estado: \n");         
         scanf("%s", &estado1);
         printf("Digite a Quantidade da População: \n");         
         scanf("%d", &populacao1);
